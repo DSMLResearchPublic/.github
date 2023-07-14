@@ -1,5 +1,19 @@
 ## DSML Research Group Public Github 👋
 
+This is the organizational github account for the Data Science and Machine Learning Research Group's public projects and associated Discord Server.  
+
+It's used as a central location for all of the organization's community works.  Individual repositories exist for each separate project.
+
+Projects can exist as open source software projects that people actively contribute to, as well as empirical projects aimed at creating new results and discussing their work.  Contributions are entirely voluntary, and anyone is free to participate, although different levels of background knowledge are useful for being able to contribute.
+
+## Current Projects
+
+Current projects are the following:
+
+Name | Brief Description | Type | Link
+ --- | --- | --- | --- 
+Crypto Business Cycle | Measure cyclical activity in blockchain data and determine existence of business cycle and its impacts | Empirical | [Repo](www.dsmlresearch.org)
+
 <!--
 
 **Here are some ideas to get you started:**
