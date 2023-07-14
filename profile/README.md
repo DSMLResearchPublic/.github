@@ -14,6 +14,14 @@ Name | Brief Description | Type | Link
  --- | --- | --- | --- 
 Crypto Business Cycle | Measure cyclical activity in blockchain data and determine existence of business cycle and its impacts | Empirical | [Repo](www.dsmlresearch.org)
 
+## Where To Find Us
+
+In addition to our github repository, you can also stay in touch with us in the following ways:
+
+ - 💻Homepage: [www.dsmlresearch.org](https://www.dsmlresearch.org)
+ - 🏢LinkedIn: [Our LinkedIn Profile](https://www.linkedin.com/company/dsml-research-group/mycompany/?viewAsMember=true)
+ - 🎤Discord: [Our Discord Server](https://discord.gg/GjJ5gHzR)
+
 <!--
 
 **Here are some ideas to get you started:**
