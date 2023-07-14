@@ -6,7 +6,7 @@ It's used as a central location for all of the organization's community works.  
 
 Projects can exist as open source software projects that people actively contribute to, as well as empirical projects aimed at creating new results and discussing their work.  Contributions are entirely voluntary, and anyone is free to participate, although different levels of background knowledge are useful for being able to contribute.
 
-## Current Projects
+## Current Projects 📣
 
 Current projects are the following:
 
