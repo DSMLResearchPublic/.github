@@ -6,13 +6,22 @@ It's used as a central location for all of the organization's community works.  
 
 Projects can exist as open source software projects that people actively contribute to, as well as empirical projects aimed at creating new results and discussing their work.  Contributions are entirely voluntary, and anyone is free to participate, although different levels of background knowledge are useful for being able to contribute.
 
+## How Do I Contribute? ❓
+
+If you'd like to find something to work on, it's suggested that you do the following:
+ - Browse through the issues section of this github repo to search for existing projects that have been volunteered by other people that you find interesting
+ - Find the corresponding channel on discord to try and communicate with other people who are currently working on it
+ - Go To Town
+
+If you have something you'd like to work on and want to see if someone is able to help, you are welcome to submit your own issue and see if it can generate any interest.
+
 ## Current Projects 📣
 
-Current projects are the following:
+Current projects that have been submitted are the following:
 
 Name | Brief Description | Type | Link
  --- | --- | --- | --- 
-Crypto Business Cycle | Measure cyclical activity in blockchain data and determine existence of business cycle and its impacts | Empirical | [Repo](www.dsmlresearch.org)
+Crypto Business Cycle | Measure cyclical activity in blockchain data and determine existence of business cycle and its empirical impacts | Empirical | [Repo](www.dsmlresearch.org)
 
 ## Where To Find Us
 
